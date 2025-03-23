@@ -5,7 +5,8 @@
     "order": "2 chicken",
     "timestamp": "2025-03-23 08:58:05",
     "status": "Ready to Collect",
-    "user_id": 646830087
+    "user_id": 
+    "total": 10.00
   },
   {
     "order_id": "ORD1742720669",
@@ -14,6 +15,7 @@
     "timestamp": "2025-03-23 09:04:29",
     "status": "Preparing",
     "user_id": 646830087
+    "total": 10.00
   },
   {
     "order_id": "ORD1742720724",
@@ -22,5 +24,6 @@
     "timestamp": "2025-03-23 09:05:24",
     "status": "Pending",
     "user_id": 646830087
+    "total": 10.00
   }
 ]
